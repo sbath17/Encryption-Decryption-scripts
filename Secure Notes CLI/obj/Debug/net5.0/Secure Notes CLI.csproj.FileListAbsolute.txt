@@ -1,0 +1,5 @@
+C:\Users\sukhp\source\repos\Secure Notes CLI\obj\Debug\net5.0\Secure Notes CLI.csproj.AssemblyReference.cache
+C:\Users\sukhp\source\repos\Secure Notes CLI\obj\Debug\net5.0\Secure Notes CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sukhp\source\repos\Secure Notes CLI\obj\Debug\net5.0\Secure Notes CLI.AssemblyInfoInputs.cache
+C:\Users\sukhp\source\repos\Secure Notes CLI\obj\Debug\net5.0\Secure Notes CLI.AssemblyInfo.cs
+C:\Users\sukhp\source\repos\Secure Notes CLI\obj\Debug\net5.0\Secure Notes CLI.csproj.CoreCompileInputs.cache
