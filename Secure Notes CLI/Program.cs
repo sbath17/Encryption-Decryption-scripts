@@ -1,4 +1,6 @@
-﻿using System;
+//This is Encryption Description Scrips
+//This has 5 program scripts to run (Encryption services, file servies, key services, notes & program) 
+using System;
 namespace Secure_Notes_CLI
 {
     class Program
@@ -54,4 +56,5 @@ namespace Secure_Notes_CLI
             }
         }
     }
+
 }
